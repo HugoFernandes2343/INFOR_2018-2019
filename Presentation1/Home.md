@@ -17,7 +17,7 @@
     - Aluno, Sistema e Funcionários responsáveis pelo gabinete
 
 ### Página com informação de síntese
-A página de faltas é um exemplo de página de síntese. O processo da marcação das faltas ocorre através da recolha de dados do cartão do aluno e envia os dados para o portal. No portal verifica se o aluno contém uma aula naquela sala, marca presença e não faz aparecer os dados no portal, caso haja atraso ou falta, ou seja, o aluno não passou o cartão na aula, faz aparecer a informação correspondente no portal. O valor para o aluno é ter a informação atualizada sobre a sua frequência nas aulas e controlar a mesma frequência. Assim como o valor para os professores será a aquisição de uma perceção do interesse dos alunos da frequência nas aulas.
+A página de registo das faltas é um exemplo de página de síntese. O processo da marcação das faltas ocorre através da recolha de dados do cartão do aluno e envia os dados para o portal. No portal verifica se o aluno contém uma aula naquela sala, marca presença e não faz aparecer os dados no portal, caso haja atraso ou falta, ou seja, o aluno não passou o cartão na aula, faz aparecer a informação correspondente no portal. O valor para o aluno é ter a informação atualizada sobre a sua frequência nas aulas e controlar a mesma frequência. Assim como o valor para os professores será a aquisição de uma perceção do interesse dos alunos da frequência nas aulas.
 
 ### Diagrama de atividades UML com swim lanes
 
