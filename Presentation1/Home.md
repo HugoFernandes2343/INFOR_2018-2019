@@ -4,17 +4,17 @@
 
 ### Processos de negócio e os respetivos participantes
   - Gerar certidões ou diplomas
-    - Aluno
+    - Aluno, Sistema e Funcionário da Divisão Académica
   - Autorizar estacionamento no parque
-    - Alunos e Professores
+    - Aluno e Sistema
   - Inscrever em exames
-    - Alunos e Professores
+    - Aluno e Sistema
   - Realizar matrículas
-    - Alunos e Diretores de Departamento
+    - Aluno, Sistema e Diretores de Departamento
   - Fazer pedidos Helpdesk
-    - Alunos e Funcionário responsável pelas plataformas
+    - Aluno, Sistema e Funcionário responsável pelas plataformas
   - Usufruir dos Serviços de Apoio Técnico (SAT)
-    - Funcionários responsáveis pelo gabinete
+    - Aluno, Sistema e Funcionários responsáveis pelo gabinete
 
 ### Página com informação de síntese
 
