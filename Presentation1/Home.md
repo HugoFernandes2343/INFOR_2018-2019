@@ -1,4 +1,4 @@
-# Sistemas de Informação no mercado global
+**# Sistemas de Informação no mercado global**
 
 ## Portal
 
@@ -23,3 +23,10 @@ A página de registo das faltas é um exemplo de página de síntese. O processo
 ![Activity Diagram](apresentacao 1.png)
 
 ### Vantagens e desvantagens do desenvolvimento de um sistema de informação à medida
+Vantagens:
+* A construção do sistema corresponde diretamente aos requisitos da organização/dos utilizadores.
+* Os custos extra associados ao seu desenvolvimento podem ser diluídos nos benefícios que proporcionarão ao longo dos anos de utilização.
+
+Desvantagens:
+* Implica um grande investimento nomeadamente no que se refere aos recursos internos qualificados, ou seja, no que toca aos requisitos, de certa forma, personalizados, leva a que hajam profissionais especializados e que estejam preparados para todo o tipo de requisitos pedidos pela empresa.
+* Perceber o que o cliente realmente quer, requer maior tempo de compreensão, logo gera um maior tempo de levantamento de requisitos. Se a compreensão não for bem feita, gera que o tempo de desenvolvimento seja maior.
