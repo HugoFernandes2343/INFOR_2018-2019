@@ -2,21 +2,23 @@
 
 ## Impacto na Organização e Recursos Humanos ##
 
-* As rotinas e práticas usadas no ISEP seriam totalmente modificadas o que envolve que haja trabalho especializado e formações para adaptar às ferramentas novas, muitos dos empregados no ISEP seriam dispensados.
+Antes de mais, há que ter em mente o que é realmente o ISEP. E por isso, passamos este vídeo para vermos algumas das opiniões de elementos, tanto estudantes, como docentes e funcionários, descrevem a instituição.
 
-* A eficiência durante algum tempo seria muito reduzida e haveria resistência à mudança por parte de muitos docentes e funcionários.
+[Referência 1](https://www.facebook.com/isep.pporto/videos/1634642810012657/)
 
-* Para os alunos dependendo da sua capacidade monetária poderia afetar a frequência das aulas, assim como a redução dos alunos poderia ser prejudicial, dado que requeria que muitos dos alunos que normalmente se inscreviam no ISEP não o fizessem e poderia também afetar a imagem da instituição pois os métodos poderiam desencorajar os novos alunos.
+E aqui ficam as nossas primeiras perguntas: o que é para vocês o ISEP? O que vos motivou a vir estudar para cá? O que acham que o ISEP tem de diferente comparativamente às outras faculdades?
 
-* Seria possivelmente desmotivador para certos alunos devido à ausência do fator humano docente, podendo apenas fazer conversação com um AI, em que haverá apenas respostas padronizadas, cujas podem não ser bem interpretadas e haver a necessidade de esmiuçamento.
+Achamos que seria importante realçar este ponto fundamental para perceber o impacto que uma medida deste género pudesse ter influência na comunidade do ISEP.
 
-* A instalação de robots para fazer as tarefas que são normalmente realizadas por humanos poderiam mostrar-se muito ineficientes ou eficazes no seu trabalho, no entanto não iriam dispensar de trabalho humano, pois estes robots terão de ter manutenção e inspeção para que sejam verificadas a devida funcionalidade ou a falta dela.
+Assim sendo, podemos destacar prós e contras que passaremos a citar com mais pormenor, de seguida.
 
-* Em termos da avaliação dos professores através do 'preço' das suas aulas, pode levar a que se torne um sistema demasiado competitivo e possivelmente nefasto, para os alunos o gasto dos créditos disponíveis podia também ser prejudicial, pois um aluno que utilizasse os créditos todos numa aula não poderia ter outra oportunidade e pelo tempo disponivel dado ao aluno pode também não ser o suficiente.
+* Teriam de ser implementadas novas rotinas e práticas. Por um lado, como teria de ser um trabalho mais especializado, os docentes e funcionários teriam formações para se adaptarem às ferramentas novas, logo o ISEP teria mais pessoal especializado. Contudo, muitos docentes e funcionários iriam demonstrar resistência à mudança e muitos iriam ser dispensados.
 
-* O uso da inteligência artificial pode ser benéfico e muito normalizado, no entanto pode ser tão padronizado a ponto de não haver opinião pessoal dos docentes ou experiências que possam contribuir igualmente como uma aula presencial.
+* Tendo em conta que a frequência às aulas é apenas permitida caso o aluno tenha créditos suficientes ou comprando mais créditos, os alunos que não tenham capacidade monetária não podem comprar créditos extra com frequência, para ir às aulas, logo afetando a frequência às aulas, bem como o rendimento e acompanhamento dos conteúdos. Isto levaria à redução de alunos presentes nas aulas, o que poderia ser prejudicial para o ISEP, não só pelos poucos alunos em aulas, mas também porque estes acabariam por nem se inscrever na instituição. Isso afetaria, sem dúvida, a imagem do ISEP, pois os métodos de ensino poderiam desencorajar os novos alunos.
 
-* A criação de espaços de lazer e habitacional pode ser benéfica na criação de laços humanos e bem estar social, no entanto haverá a necessidade do fator humano para aceitação dos alunos nesses espaços e a sua manutenção, pois robots não conseguem por exemplo consertar a canalização, dado que são problemas muito específicos.
+* Como é conhecido, um dos fatores cruciais das aulas presenciais é a discussão de ideias e métodos de resolver determinados problemas com os docentes. Se não for possível, provavelmente seria desmotivador, sendo um encorajador ao abandono escolar, ao contrário de incentivar a ultrapassar os desafios colocados. Caso esta ideologia pioneira do ISEP avançasse, os estudantes poderiam sentir-se desinteressados dado que apenas haveria conversação com um AI, em que as respostas seriam padronizadas, sem a possibilidade de esmiuçamento e explicação.
+
+* A instalação de robots para fazer as tarefas que são normalmente realizadas por humanos poderiam mostrar-se muito ineficientes no seu trabalho, pois seria necessário manter o trabalho humano para fazer a sua manutenção e inspeção. Além disso, existem trabalhos que muitos robots não conseguem fazer, como tratar da canalização, por exemplo.
 
 # Posicionamento no mercado #
 
