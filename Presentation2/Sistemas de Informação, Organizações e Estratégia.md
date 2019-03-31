@@ -18,6 +18,8 @@ Assim sendo, podemos destacar prós e contras que passaremos a citar com mais po
 
 * Como é conhecido, um dos fatores cruciais das aulas presenciais é a discussão de ideias e métodos de resolver determinados problemas com os docentes. Se não for possível, provavelmente seria desmotivador, sendo um encorajador ao abandono escolar, ao contrário de incentivar a ultrapassar os desafios colocados. Caso esta ideologia pioneira do ISEP avançasse, os estudantes poderiam sentir-se desinteressados dado que apenas haveria conversação com um AI, em que as respostas seriam padronizadas, sem a possibilidade de esmiuçamento e explicação.
 
+[Referência 2](https://g1.globo.com/sc/santa-catarina/especial-publicitario/unisociesc/transformacao-na-pratica/noticia/ensino-presencial-ou-a-distancia.ghtml)
+
 * A instalação de robots para fazer as tarefas que são normalmente realizadas por humanos poderiam mostrar-se muito ineficientes no seu trabalho, pois seria necessário manter o trabalho humano para fazer a sua manutenção e inspeção. Além disso, existem trabalhos que muitos robots não conseguem fazer, como tratar da canalização, por exemplo.
 
 # Posicionamento no mercado #
