@@ -15,6 +15,9 @@ Custo de desenvolvimento de aplicação VR (Virtual Reality):
 + https://thinkmobiles.com/blog/how-much-vr-application-development-cost/
 + https://www.avrspot.com/much-vr-application-development-cost-2018/
 
+Informação sobre Organizações:
++ [Management Information Systems de Kenneth C. Laudon e Jane P. Laudon](https://www.pearson.com/us/higher-education/product/Laudon-Management-Information-Systems-Managing-the-Digital-Firm-13th-Edition/9780133050691.html)
+
 ## Posicionamento no mercado ##
 
 Informação sobre o Modelo de Porter:
