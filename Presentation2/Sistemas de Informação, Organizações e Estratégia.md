@@ -28,9 +28,7 @@ Assim sendo, podemos destacar prós e contras que passaremos a citar com mais po
 
 ### Novas Entradas No Mercado ###
 
-* Com o desenvolvimento das tecnologias torna-se cada vez mais fácil criar um ambiente didático que suporte ou mesmo substitua as aulas presenciais.
-Por esse motivo a possibilidade de uma entidade nova entrar no mercado das aulas virtuais é quase certo. Normalmente uma faculdade terá já implementado uma qualquer ajuda educacional online (moodle) e será essa a raiz usada para criar um produto que rivalize o do ISEP.
-Isto faz com que as restantes faculdades sejam os principais futuros competidores do ISEP.
+* Com o desenvolvimento das tecnologias torna-se cada vez mais fácil criar um ambiente didático que suporte ou mesmo substitua as aulas presenciais. Por esse motivo a possibilidade de uma entidade nova entrar no mercado das aulas virtuais é quase certo. Normalmente uma faculdade terá já implementado uma qualquer ajuda educacional online (moodle) e será essa a raiz usada para criar um produto que rivalize o do ISEP. Isto faz com que as restantes faculdades sejam os principais futuros competidores do ISEP.
 
 ### Produtos e Serviços Semelhantes ###
 
