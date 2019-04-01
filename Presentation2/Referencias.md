@@ -18,7 +18,7 @@
 5. Informação sobre Organizações:
 + [Management Information Systems de Kenneth C. Laudon e Jane P. Laudon](https://www.pearson.com/us/higher-education/product/Laudon-Management-Information-Systems-Managing-the-Digital-Firm-13th-Edition/9780133050691.html)
 
-6. Estudos de sistema AI:
+6. Aplicação da Inteligência Artificial em contexto académico:
 + https://www.theverge.com/2016/5/6/11612520/ta-powered-by-ibm-watson?fbclid=IwAR2KwLXHpUlPz7oLKUdl_dNuPCP7HU5SfXpEQPn_MXezeF7DyUQ6R7cGOS4
 + https://www.businessinsider.com/a-professor-built-an-ai-teaching-assistant-for-his-courses-and-it-could-shape-the-future-of-education-2017-3?fbclid=IwAR1fxhNrjzqYTiHFgmkjyIeSzEIzNpSaP-viTs2_1p1wzBuOiCyozRfNNcE
 
