@@ -22,7 +22,9 @@ Assim sendo, podemos destacar prós e contras que passaremos a citar com mais po
 
 ## Posicionamento no mercado ##
 
-* Ao aderir ao edx-IL o ISEP irá substituir as aulas presenciais dos seus cursos superiores por um conjunto de ferramentas que permitirá aos alunos ter as aulas online.
+* Ao aderir ao edx-IL o ISEP irá substituir as aulas presenciais dos seus cursos superiores por um conjunto de ferramentas que permitirá aos alunos ter as aulas online. Vamos analisar agora tendo em conta o Modelo de Porter a estratégia a seguir com este novo modo de ensino:
+
+### Competidores ###
 
 * Devido ao produto ser inovador em Portugal os competidores diretos não vão mudar (outras faculdades) pois apesar de o seu produto ser diferente (Aulas presenciais vs aulas online) o resultados é o mesmo (Licenciaturas equivalentes). Por isso vamos olhar para os outros pontos do modelo de Porter.
 
