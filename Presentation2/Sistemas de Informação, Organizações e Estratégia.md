@@ -23,20 +23,25 @@ Assim sendo, podemos destacar prós e contras que passaremos a citar com mais po
 ## Posicionamento no mercado ##
 
 * Ao aderir ao edx-IL o ISEP irá substituir as aulas presenciais dos seus cursos superiores por um conjunto de ferramentas que permitirá aos alunos ter as aulas online.
-Devido ao produto ser inovador em Portugal os competidores diretos não vão mudar (outras faculdades) pois apesar de o seu produto ser diferente (Aulas presenciais vs aulas online) o resultados é o mesmo (Licenciaturas equivalentes). Por isso vamos olhar para os outros pontos do modelo de Porter.
 
-### New Market Entrants ###
+* Devido ao produto ser inovador em Portugal os competidores diretos não vão mudar (outras faculdades) pois apesar de o seu produto ser diferente (Aulas presenciais vs aulas online) o resultados é o mesmo (Licenciaturas equivalentes). Por isso vamos olhar para os outros pontos do modelo de Porter.
+
+### Novas Entradas No Mercado ###
+
 * Com o desenvolvimento das tecnologias torna-se cada vez mais fácil criar um ambiente didático que suporte ou mesmo substitua as aulas presenciais.
 Por esse motivo a possibilidade de uma entidade nova entrar no mercado das aulas virtuais é quase certo. Normalmente uma faculdade terá já implementado uma qualquer ajuda educacional online (moodle) e será essa a raiz usada para criar um produto que rivalize o do ISEP.
 Isto faz com que as restantes faculdades sejam os principais futuros competidores do ISEP.
 
-### Substitute Products and Services ###
+### Produtos e Serviços Semelhantes ###
+
 * Neste caso o Produto a ser vendido é o mesmo de muitos outros competidores (educação) mas os serviços oferecidos são diferentes. Desta forma não existe um produto que substitua diretamente e ficará ao critério dos clientes que tipo de aulas preferem.
 
-### Customers ###
+### Clientes ###
+
 * Por oferecer um produto inovador e oferecer uma facilidade e flexibilidade enorme nos seus serviços, assim como ter um "monopólio" não terá dificuldade em manter clientes (alunos).
 
-### Supliers ###
+### Fornecedores ###
+
 * Os fornecedores aqui serão os professores os quais já existem na organização. Como não são os fornecedores clássicos não sofrem dos mesmos problemas, e como tal não devem ter um impacto significativo no lucro do negócio.
 
 
