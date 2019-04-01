@@ -4,7 +4,7 @@
 
 ## Impacto na Organização e Recursos Humanos ##
 
-Antes de mais, há que ter em mente o que é realmente o ISEP. E por isso, passamos este vídeo para vermos algumas das opiniões de elementos, tanto estudantes, como docentes e funcionários, descrevem a instituição *(ref. 1)*.
+Antes de mais, há que ter em mente o que é realmente o ISEP. E por isso, passamos este vídeo para vermos algumas das opiniões de elementos, tanto estudantes, como docentes e funcionários, descrevem a instituição. *(ref. 1)*
 
 E aqui ficam as nossas primeiras perguntas: o que é para vocês o ISEP? O que vos motivou a vir estudar para cá? O que acham que o ISEP tem de diferente comparativamente às outras faculdades?
 
@@ -12,13 +12,15 @@ Achamos que seria importante realçar este ponto fundamental para perceber o imp
 
 Assim sendo, podemos destacar prós e contras que passaremos a citar com mais pormenor, de seguida.
 
-* Teriam de ser implementadas novas rotinas e práticas. Por um lado, como teria de ser um trabalho mais especializado, os docentes e funcionários teriam formações para se adaptarem às ferramentas novas, logo o ISEP teria mais pessoal especializado. Contudo, muitos docentes e funcionários iriam demonstrar resistência à mudança e muitos iriam ser dispensados.
+* Teriam de ser implementadas novas rotinas e práticas. Por um lado, como teria de ser um trabalho mais especializado, os docentes e funcionários teriam formações para se adaptarem às ferramentas novas, logo o ISEP teria mais colaboradores especializados. Contudo, muitos docentes e funcionários iriam demonstrar resistência à mudança e muitos iriam ser dispensados. *(ref. 5)*
 
-* Tendo em conta que a frequência às aulas é apenas permitida caso o aluno tenha créditos suficientes ou comprando mais créditos, os alunos que não tenham capacidade monetária não podem comprar créditos extra com frequência, para ir às aulas, logo afetando a frequência às aulas, bem como o rendimento e acompanhamento dos conteúdos. Isto levaria à redução de alunos presentes nas aulas, o que poderia ser prejudicial para o ISEP, não só pelos poucos alunos em aulas, mas também porque estes acabariam por nem se inscrever na instituição. Isso afetaria, sem dúvida, a imagem do ISEP, pois os métodos de ensino poderiam desencorajar os novos alunos.
+* Requer elevado custo financeiro e temporal para o desenvolvimento e pós-produção (como por exemplo: manutenção e adição de novas funcionalidades) da aplicação VR. *(ref. 4)*
 
-* Como é conhecido, um dos fatores cruciais das aulas presenciais é a discussão de ideias e métodos de resolver determinados problemas com os docentes. Se não for possível, provavelmente seria desmotivador, sendo um encorajador ao abandono escolar, ao contrário de incentivar a ultrapassar os desafios colocados. Caso esta ideologia pioneira do ISEP avançasse, os estudantes poderiam sentir-se desinteressados dado que apenas haveria conversação com um AI, em que as respostas seriam padronizadas, sem a possibilidade de esmiuçamento e explicação *(ref. 2)*.
+* Tendo em conta que a frequência às aulas é apenas permitida caso o aluno tenha créditos suficientes ou comprando mais créditos, os alunos que não tenham capacidade monetária não podem comprar créditos extra com frequência, para ir às aulas, logo afetando a frequência às aulas, bem como o rendimento e acompanhamento dos conteúdos. Isto levaria à redução de alunos presentes nas aulas, o que poderia ser prejudicial para o ISEP, não só pelos poucos alunos em aulas, mas também porque estes acabariam por nem se inscrever na instituição. Isso afetaria, sem dúvida, a imagem do ISEP, pois os métodos de ensino poderiam desencorajar os novos alunos. *(ref. 3)*
 
-* A instalação de robots para fazer as tarefas que são normalmente realizadas por humanos poderiam mostrar-se muito ineficientes no seu trabalho, pois seria necessário manter o trabalho humano para fazer a sua manutenção e inspeção. Além disso, existem trabalhos que muitos robots não conseguem fazer, como tratar da canalização, por exemplo.
+* Como é conhecido, um dos fatores cruciais das aulas presenciais é a discussão de ideias e métodos de resolver determinados problemas com os docentes. Se não for possível, provavelmente seria desmotivador, sendo um encorajador ao abandono escolar, ao contrário de incentivar a ultrapassar os desafios colocados. Caso esta ideologia pioneira do ISEP avançasse, os estudantes poderiam sentir-se desinteressados dado que apenas haveria conversação com um AI, em que as respostas seriam padronizadas, sem a possibilidade de esmiuçamento e explicação. *(ref. 2)*
+
+* A instalação de robots para fazer as tarefas que são normalmente realizadas por humanos poderiam mostrar-se muito ineficientes no seu trabalho, pois seria necessário manter o trabalho humano para fazer a sua manutenção e inspeção. Além disso, existem trabalhos que muitos robots não conseguem fazer, como tratar da canalização, por exemplo. *(ref. 6)*
 
 ## Posicionamento no mercado ##
 
@@ -44,8 +46,5 @@ Assim sendo, podemos destacar prós e contras que passaremos a citar com mais po
 
 * Os fornecedores aqui serão os professores os quais já existem na organização. Como não são os fornecedores clássicos não sofrem dos mesmos problemas, e como tal não devem ter um impacto significativo no lucro do negócio.
 
-### Questões ###
-
-* Acham que o facto de haver menos contacto humano teria um impacto negativo nos futuros engenheiros? Porquê?
 
 ### [Referências](Referencias.md) ###
