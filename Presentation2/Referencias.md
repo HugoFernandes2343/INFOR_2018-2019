@@ -8,6 +8,13 @@ Vídeo sobre o ISEP:
 Estudo sobre as diferencas entre aulas presenciais e aulas remotas:
 + https://g1.globo.com/sc/santa-catarina/especial-publicitario/unisociesc/transformacao-na-pratica/noticia/ensino-presencial-ou-a-distancia.ghtml
 
+Preço do sistema VR (Virtual Reality):
++ https://www.vive.com/us/product/vive-virtual-reality-system/
+
+Custo de desenvolvimento de aplicação VR (Virtual Reality):
++ https://thinkmobiles.com/blog/how-much-vr-application-development-cost/
++ https://www.avrspot.com/much-vr-application-development-cost-2018/
+
 ## Posicionamento no mercado ##
 
 Informação sobre o Modelo de Porter:
