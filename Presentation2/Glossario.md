@@ -10,4 +10,4 @@
 
 
 
-<[Back](Sistemas.md)
+<[Back](Sistemas de Informação, Organizações e Estratégia.md)
