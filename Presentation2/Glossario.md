@@ -7,7 +7,12 @@
 * AI (Artificial Intelligence): é a inteligência similar à humana exibida por mecanismos ou software.
 
 ## Posicionamento no mercado ##
-
+* Modelo de Porter: ferramenta de análise de competitividade de um negócio. Considera cinco fatores a estudar de forma a desenvolver uma boa estratégia   de negócio:
+  1. Competidores
+  2. Novas Entradas no Mercado
+  3. Produtos e Serviços Semelhantes
+  4. Clientes
+  5. Fornecedores
 
 
 <[Back](Sistemas de Informação, Organizações e Estratégia.md)
