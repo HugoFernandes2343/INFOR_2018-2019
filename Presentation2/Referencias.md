@@ -5,7 +5,7 @@
 1. Vídeo sobre o ISEP:
 + https://www.facebook.com/isep.pporto/videos/1634642810012657/
 
-2.Informação sobre Organizações:
+2. Informação sobre Organizações:
 + [Management Information Systems de Kenneth C. Laudon e Jane P. Laudon](https://www.pearson.com/us/higher-education/product/Laudon-Management-Information-Systems-Managing-the-Digital-Firm-13th-Edition/9780133050691.html) 
 
 3. Custo de desenvolvimento de aplicação VR (Virtual Reality):
