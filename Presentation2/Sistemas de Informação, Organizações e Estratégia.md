@@ -46,11 +46,6 @@ Assim sendo, podemos destacar prós e contras que passaremos a citar com mais po
 
 * Os fornecedores aqui serão os professores os quais já existem na organização. Como não são os fornecedores clássicos não sofrem dos mesmos problemas, e como tal não devem ter um impacto significativo no lucro do negócio.
 
-### Questões ###
-
-* Acham que o facto de haver menos contacto humano teria um impacto negativo nos futuros engenheiros? Porquê?
-* Acham que robôs seriam um substituto ideal aos humanos?
-* Como seria feita acompanhamento dos alunos?
-* Que impactos poderiam estar associadas às experiências dos alunos ?
+### [Questões](Questoes.md) ###
 
 ### [Referências](Referencias.md) ###
