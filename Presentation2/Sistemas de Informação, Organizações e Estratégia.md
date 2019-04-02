@@ -12,7 +12,7 @@ Achamos que seria importante realçar este ponto fundamental para perceber o imp
 
 Assim sendo, podemos destacar prós e contras que passaremos a citar com mais pormenor, de seguida.
 
-* Teriam de ser implementadas novas rotinas e práticas. Por um lado, como teria de ser um trabalho mais especializado, os docentes e funcionários teriam formações para se adaptarem às ferramentas novas, logo o ISEP teria mais colaboradores especializados. Contudo, muitos docentes e funcionários iriam demonstrar resistência à mudança e muitos iriam ser dispensados. *(ref. 5)*
+* Teriam de ser implementadas novas rotinas e práticas. Por um lado, como teria de ser um trabalho mais especializado, os docentes e funcionários teriam formações para se adaptarem às ferramentas novas, logo o ISEP teria mais colaboradores especializados. Contudo, muitos docentes e funcionários iriam demonstrar resistência à mudança. *(ref. 5)*
 
 * Requer elevado custo financeiro e temporal para o desenvolvimento e pós-produção (como por exemplo: manutenção e adição de novas funcionalidades) da aplicação VR. *(ref. 4)*
 
