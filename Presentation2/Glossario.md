@@ -7,3 +7,7 @@
 * AI (Artificial Intelligence): é a inteligência similar à humana exibida por mecanismos ou software.
 
 ## Posicionamento no mercado ##
+
+
+
+<[Back](Sistemas.md)
