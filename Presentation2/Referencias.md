@@ -26,3 +26,5 @@
 
 5. Informação sobre o Modelo de Porter:
 + [Management Information Systems de Kenneth C. Laudon e Jane P. Laudon](https://www.pearson.com/us/higher-education/product/Laudon-Management-Information-Systems-Managing-the-Digital-Firm-13th-Edition/9780133050691.html)
+
+<[Back](Sistemas de Informação, Organizações e Estratégia.md)
