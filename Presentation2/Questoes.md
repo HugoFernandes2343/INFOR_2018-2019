@@ -4,3 +4,5 @@
 * Acham que robôs seriam um substituto ideal aos humanos?
 * Como seria feita acompanhamento dos alunos?
 * Que impactos poderiam estar associadas às experiências dos alunos ?
+
+<[Back](Sistemas de Informação, Organizações e Estratégia.md)
