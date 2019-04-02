@@ -1,6 +1,6 @@
 # Sistemas de Informação, Organizações e Estratégia #
 
- [Glossário](Glossario.md)
+ [Glossário](Glossario.md)>
 
 ## Impacto na Organização e Recursos Humanos ##
 
@@ -46,6 +46,6 @@ Assim sendo, podemos destacar prós e contras que passaremos a citar com mais po
 
 * Os fornecedores aqui serão os professores os quais já existem na organização. Como não são os fornecedores clássicos não sofrem dos mesmos problemas, e como tal não devem ter um impacto significativo no lucro do negócio.
 
-### [Questões](Questoes.md) ###
+### [Questões](Questoes.md)> ###
 
-### [Referências](Referencias.md) ###
+### [Referências](Referencias.md)> ###
