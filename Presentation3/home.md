@@ -8,4 +8,10 @@
 
 ##  Criar um serviço de análise da qualidade de ensino baseado na análise de indicadores de desempenho (KPI) da atividade de ensino e do desempenho individual dos estudantes. Com este serviço pretende-se eliminar definitivamente os inquéritos pedagógicos, substituindo-os por uma ferramenta inteligente.
 
-##INDICADORES KPI ???
+1-
+
+2-
+
+3-
+
+4- KPI para cada cadeira será o quão perto de 20 ficou um aluno, pode-se analisar notas da mesma cadeira entre turmas do mesmo professor e comparar com professores diferentes de forma a ver qual consegue melhor resultados através dos seus alunos. Desta forma automatiza-se os inquéritos pedagógicos, para além disso o que representa um professor passa a ser os resultados que obtém em vez da opinião que os alunos têm deles.
