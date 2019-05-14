@@ -8,7 +8,9 @@
 
 ##  Criar um serviço de análise da qualidade de ensino baseado na análise de indicadores de desempenho (KPI) da atividade de ensino e do desempenho individual dos estudantes. Com este serviço pretende-se eliminar definitivamente os inquéritos pedagógicos, substituindo-os por uma ferramenta inteligente.
 
-1-
+1- Para que este serviço seja possível, será necessário recolher dados dos estudantes. Seria pertinente completar a zona de submissão de documentos, para que, aquando a fase de inscrição no ISEP, o estudante pudesse submeter documentos autenticados com as suas notas e a sua assiduidade do ensino secundário, cursos e formações que tenham realizado antes de entrar na instituição. Também seria permitido que, durante o seu percurso académico no ISEP, fossem submetidos novos documentos autenticados caso o aluno frequentasse mais alguma formação extra curricular.
+
+Neste momento, durante o processo de inscrição de novos alunos no ISEP, os alunos têm de preencher um formulário onde têm perguntas para que a instituição conheça um pouco melhor o estudante. Assim sendo, para complementar este serviço, seria imprescindível aplicar mais algumas perguntas, de acordo com os parâmetros a ter em conta para a caracterização do perfil do aluno (ex: um aluno que coloque no questionário que praticou/pratica algum desporto e que fez/faz parte de uma equipa federada, ficará classificado como uma pessoa com espírito de equipa).
 
 2-
 
