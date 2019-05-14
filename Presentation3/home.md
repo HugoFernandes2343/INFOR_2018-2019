@@ -13,13 +13,9 @@ Neste momento, durante o processo de inscrição de novos alunos no ISEP, os alu
 
 Para manter dados mais atualizados e detalhados, poderiam-se realizar avaliações com mais frequência, de modo a refletir a progressão e o conhecimento do aluno; registar a autonomia do aluno; registar a frequência das aulas, de modo a refletir o interesse pelo ensino fornecido; e registar o número de reprovações a determinada avaliação ou unidade curricular.
 
-No que toca aos KPI's deste serviço, temos a quantidade de reprovação, a média, a assiduidade e as faltas do aluno.
-
 ##  Criar um serviço de colocação nas turmas e formação de grupos que tenha em atenção as características específicas dos estudantes, de acordo com os perfis criados pelo serviço de caracterização dos estudantes. A Direção do Curso e os Responsáveis de UC podem definir os critérios mais adequados a cada curso e UC. Este serviço terá capacidade de aprendizagem, no sentido de melhorar o processo com base nos resultados anteriores.
 
 Este serviço relaciona-se com o serviço de caraterização dos alunos em perfis, na medida em que formam-se turmas e grupos mediante as informações obtidas, possibilitando combinações de caraterísticas na formação de turmas e/ou grupos que poderão resultar em sucesso quer a nível de notas, quer a nível de experiência académica. O serviço pode evoluir no sentido de agrupar alunos com caraterísticas que tiveram maior sucesso anteriormente. Por exemplo: pode-se balancear o grau de conhecimento entre os alunos, de forma a aumentar a competitividade entre os mesmos; adaptar a forma de ensino, de acordo com a dificuldade dos alunos; diferenciar o grau de conhecimento entre os estudantes, de forma a aumentar o espírito de aprendizagem mútua e o trabalho em equipa; finalmente, evoluir o mecanismo de atribuição de turmas e/ou grupos mediante a combinação que obteve maior sucesso.
-
-KPI's - satisfação do aluno e resultados obtidos dos grupos e turmas formadas.
 
 ##  Criar um serviço experimental de deteção de fraude académica que use o perfil do estudante e o seu histórico para identificar eventuais anomalias. Caberá aos docentes a análise concreta e a decisão sobre o alerta.
 
@@ -31,9 +27,10 @@ Se for detetada alguma irregularidade a partir dai deve  ser criada e enviada pa
 
 ##  Criar um serviço de análise da qualidade de ensino baseado na análise de indicadores de desempenho (KPI) da atividade de ensino e do desempenho individual dos estudantes. Com este serviço pretende-se eliminar definitivamente os inquéritos pedagógicos, substituindo-os por uma ferramenta inteligente.
 
-KPIs- qualidade do serviço, SLA, disponibilidade do serviço, diminuição de tempo gasto, conformidade com RGPD
-
 Este serviço da qualidade no ensino vai utilizar, entre outras coisas, o serviço de caracterização de um aluno para poder decidir se durante o semestre houve melhorias nas notas. Terá também acesso à média das notas das turmas do professor, desta forma pode analisar se o problema foi do aluno ou se é comum a todas as turmas do professor.
 Pode ainda ser utilizado em conjunto com o serviço de colocação em turmas de forma a juntar alunos e professores mais compatíveis.
 
 Desta forma automatiza-se os inquéritos pedagógicos, para além disso o que representa um professor passa a ser os resultados que obtém em vez da opinião que os alunos têm dele.
+
+### KPIs
+No que toca aos KPI's para a qualidade da atividade de ensino, temos a quantidade de reprovação, a média, a assiduidade, as faltas do aluno, satisfação do aluno, qualidade do serviço, SLA, disponibilidade do serviço, diminuição de tempo gasto, conformidade com RGPD.
