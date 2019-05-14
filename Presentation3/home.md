@@ -36,3 +36,7 @@ Desta forma automatiza-se os inquéritos pedagógicos, para além disso o que re
 
 ## KPIs
 No que toca aos KPI's para a qualidade da atividade de ensino, temos a quantidade de reprovação, a média, a assiduidade, as faltas, satisfação do aluno, qualidade do serviço, SLA, disponibilidade do serviço, diminuição de tempo gasto, conformidade com RGPD.
+
+## Referências ##
+1 - Video explicativo de como definir KPIs:
++ https://www.youtube.com/watch?v=PzOjTTrBiAM&fbclid=IwAR3YbSn6cxHspOkH1xLxtbUB4x6qkBJ3QkQ10hhi2WHaEvNrdE1baiTHQ5A
