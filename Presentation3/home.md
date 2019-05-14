@@ -40,3 +40,12 @@ No que toca aos KPI's para a qualidade da atividade de ensino, temos a quantidad
 ## Referências ##
 1 - Video explicativo de como definir KPIs:
 + https://www.youtube.com/watch?v=PzOjTTrBiAM&fbclid=IwAR3YbSn6cxHspOkH1xLxtbUB4x6qkBJ3QkQ10hhi2WHaEvNrdE1baiTHQ5A
+
+2 - Designação de Bussiness Intelligence
++ https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_empresarial
+
+3 - Designação de Artifical Intelligence 
++ https://www.tecmundo.com.br/intel/1039-o-que-e-inteligencia-artificial-.htm
+
+4 - Designação de KPI
++ https://pt.wikipedia.org/wiki/Indicador-chave_de_desempenho
