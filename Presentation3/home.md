@@ -18,4 +18,8 @@ Em conjunto com a análise dos dados do aluno do perfil deveriam ser também uti
 
 Se for detetada alguma irregularidade a partir dai deve  ser criada e enviada para o docente (regente ou professor PL) uma notificação a indicar a suspeita de fraude, e os alunos entre qual existe essa suspeita. Caso seja determinado que foi uma deteção falsa deverá alterar-se no registo de deteções.
 
-4- KPI para cada cadeira será o quão perto de 20 ficou um aluno, pode-se analisar notas da mesma cadeira entre turmas do mesmo professor e comparar com professores diferentes de forma a ver qual consegue melhor resultados através dos seus alunos. Desta forma automatiza-se os inquéritos pedagógicos, para além disso o que representa um professor passa a ser os resultados que obtém em vez da opinião que os alunos têm deles.
+4- KPIs- qualidade do serviço, SLA, disponibilidade do serviço, diminuição de tempo gasto, conformidade com RGPD
+
+Este serviço da qualidade no ensino vai utilizar, entre outras coisas, o serviço de caracterização de um aluno para poder decidir se durante o semestre houve melhorias nas notas. Terá também acesso à média das notas das turmas do professor, desta forma pode analisar se o problema foi do aluno ou se é comum a todas as turmas do professor.
+Pode ainda ser utilizado em conjunto com o serviço de colocação em turmas de forma a juntar alunos e professores mais compatíveis.
+Desta forma automatiza-se os inquéritos pedagógicos, para além disso o que representa um professor passa a ser os resultados que obtém em vez da opinião que os alunos têm dele.
