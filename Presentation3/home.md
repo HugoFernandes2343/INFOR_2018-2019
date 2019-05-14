@@ -5,6 +5,8 @@
 
 **Artificial Intelligence** - é um ramo da ciência da computação que se propõe a elaborar dispositivos que simulem a capacidade humana de raciocinar, perceber, tomar decisões e resolver problemas, enfim, a capacidade de ser inteligente.
 
+**KPI** - são ferramentas de gestão para se realizar a medição e o consequente nível de desempenho e sucesso de uma organização ou de um determinado processo, focando no “como” e indicando quão bem os processos dessa empresa estão, permitindo que seus objetivos sejam alcançados.
+
 ##  Criar um serviço que faça a caracterização dos estudantes em perfis de acordo com o seu passado académico pré-ISEP, assiduidade, historial académico no ISEP, etc.
 
 Para que este serviço seja possível, será necessário recolher dados dos estudantes. Seria pertinente completar a zona de submissão de documentos, para que, aquando a fase de inscrição no ISEP, o estudante pudesse submeter documentos autenticados com as suas notas e a sua assiduidade do ensino secundário, cursos e formações que tenham realizado antes de entrar na instituição. Também seria permitido que, durante o seu percurso académico no ISEP, fossem submetidos novos documentos autenticados caso o aluno frequentasse mais alguma formação extra curricular.
