@@ -12,7 +12,9 @@
 
 Neste momento, durante o processo de inscrição de novos alunos no ISEP, os alunos têm de preencher um formulário onde têm perguntas para que a instituição conheça um pouco melhor o estudante. Assim sendo, para complementar este serviço, seria imprescindível aplicar mais algumas perguntas, de acordo com os parâmetros a ter em conta para a caracterização do perfil do aluno (ex: um aluno que coloque no questionário que praticou/pratica algum desporto e que fez/faz parte de uma equipa federada, ficará classificado como uma pessoa com espírito de equipa).
 
-2-
+No que toca aos KPI's deste serviço, temos o nível de autonomia, a quantidade de reprovação, a média e faltas do aluno.
+
+2- Este serviço está diretamente relacionado como primeiro ponto. 
 
 3 — Este serviço relaciona-se com o primeiro, visto que este utilizaria os dados presentes no perfil do aluno de cadeiras semelhantes e, em geral, para determinar se deveria emitir um alerta sobre um trabalho, este serviço deverá analisar notas e detetar aumentos e decréscimos muito acentuados, para se poder ver se algo fora do normal para aquele aluno está a acontecer, claro que existem alunos cujas notas têm mais tendência a variar muito, essas tendências deverão ser determinadas através dos algoritmos e apenas devera gerar suspeitas caso algo vá contra elas.
 
