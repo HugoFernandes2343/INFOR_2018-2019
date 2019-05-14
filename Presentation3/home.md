@@ -3,9 +3,9 @@
 ## Glossário ##
 **Bussiness Intelligence** - pode ser definido como o conjunto de técnicas utilizadas para extrair inteligência a partir de dados de um determinado negócio. Ou seja, é o processo de coleta, organização, análise, ação e monitoramento de informações que oferecem suporte a gestão de negócios. 
 
-**Artificial Intelligence** - é um ramo da ciência da computação que se propõe a elaborar dispositivos que simulem a capacidade humana de raciocinar, perceber, tomar decisões e resolver problemas, enfim, a capacidade de ser inteligente.
+**Artificial Intelligence** - é um campo da ciência da computação em que máquinas realizam tarefas como a mente humana, tais como aprender e raciocinar. AI representa um conjunto de software, lógica, computação e disciplinas filosóficas que visa fazer com que os computadores realizem funções que se pensava ser exclusivamente humanas, como perceber o significado em linguagem escrita ou falada, aprender, reconhecer expressões faciais e assim por diante. 
 
-**KPI** - são ferramentas de gestão para se realizar a medição e o consequente nível de desempenho e sucesso de uma organização ou de um determinado processo, focando no “como” e indicando quão bem os processos dessa empresa estão, permitindo que seus objetivos sejam alcançados.
+**KPI** - é um indicador-chave de desempenho utilizado para medir o desempenho dos processos de uma empresa e, com essas informações, colaborar para que alcance seus objetivos.
 
 ##  Criar um serviço que faça a caracterização dos estudantes em perfis de acordo com o seu passado académico pré-ISEP, assiduidade, historial académico no ISEP, etc.
 
