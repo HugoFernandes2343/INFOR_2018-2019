@@ -19,7 +19,7 @@ Este serviço está diretamente relacionado como primeiro ponto.
 
 ##  Criar um serviço experimental de deteção de fraude académica que use o perfil do estudante e o seu histórico para identificar eventuais anomalias. Caberá aos docentes a análise concreta e a decisão sobre o alerta.
 
-Este serviço relaciona-se com o primeiro, visto que este utilizaria os dados presentes no perfil do aluno de cadeiras semelhantes e, em geral, para determinar se deveria emitir um alerta sobre um trabalho, este serviço deverá analisar notas e detetar aumentos e decréscimos muito acentuados, para se poder ver se algo fora do normal para aquele aluno está a acontecer, claro que existem alunos cujas notas têm mais tendência a variar muito, essas tendências deverão ser determinadas através dos algoritmos e apenas devera gerar suspeitas caso algo vá contra elas.
+Este serviço relaciona-se com o primeiro, visto que este utilizaria os dados presentes no perfil do aluno de cadeiras semelhantes e, em geral, para determinar se havia fraude académica deveria emitir um alerta sobre um trabalho, este serviço deverá analisar notas e detetar aumentos e decréscimos muito acentuados, para se poder ver se algo fora do normal para aquele aluno está a acontecer. É de prever que existam alunos cujas notas têm mais tendência a variar muito. Essas tendências deverão ser determinadas através dos algoritmos e apenas deverá gerar suspeitas caso algo vá contra elas.
 
 Em conjunto com a análise dos dados do aluno do perfil deveriam ser também utilizados e melhorados alguns dos algoritmos já existentes em certas cadeiras para comparar código  entre alunos. Sendo que pode também ser utilizado algo como historial de turmas para dar mais importância a parecenças no código entre pessoas que já estiveram na mesma turma ou grupo.
 
@@ -31,4 +31,5 @@ KPIs- qualidade do serviço, SLA, disponibilidade do serviço, diminuição de t
 
 Este serviço da qualidade no ensino vai utilizar, entre outras coisas, o serviço de caracterização de um aluno para poder decidir se durante o semestre houve melhorias nas notas. Terá também acesso à média das notas das turmas do professor, desta forma pode analisar se o problema foi do aluno ou se é comum a todas as turmas do professor.
 Pode ainda ser utilizado em conjunto com o serviço de colocação em turmas de forma a juntar alunos e professores mais compatíveis.
+
 Desta forma automatiza-se os inquéritos pedagógicos, para além disso o que representa um professor passa a ser os resultados que obtém em vez da opinião que os alunos têm dele.
