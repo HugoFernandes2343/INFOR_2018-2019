@@ -11,11 +11,15 @@ Para que este serviço seja possível, será necessário recolher dados dos estu
 
 Neste momento, durante o processo de inscrição de novos alunos no ISEP, os alunos têm de preencher um formulário onde têm perguntas para que a instituição conheça um pouco melhor o estudante. Assim sendo, para complementar este serviço, seria imprescindível aplicar mais algumas perguntas, de acordo com os parâmetros a ter em conta para a caracterização do perfil do aluno (ex: um aluno que coloque no questionário que praticou/pratica algum desporto e que fez/faz parte de uma equipa federada, ficará classificado como uma pessoa com espírito de equipa).
 
-No que toca aos KPI's deste serviço, temos o nível de autonomia, a quantidade de reprovação, a média e faltas do aluno.
+Para manter dados mais atualizados e detalhados, poderia-se realizar avaliações com mais frequência de modo a refletir a progressão e o conhecimento do aluno; registar a autonomia do aluno; registar a frequência das aulas de modo a refletir o interesse pelo ensino fornecido; e registar o número de reprovações a determinada avaliação ou unidade curricular.
+
+No que toca aos KPI's deste serviço, temos a quantidade de reprovação, a média, a assiduidade e as faltas do aluno.
 
 ##  Criar um serviço de colocação nas turmas e formação de grupos que tenha em atenção as características específicas dos estudantes, de acordo com os perfis criados pelo serviço de caracterização dos estudantes. A Direção do Curso e os Responsáveis de UC podem definir os critérios mais adequados a cada curso e UC. Este serviço terá capacidade de aprendizagem, no sentido de melhorar o processo com base nos resultados anteriores.
 
-Este serviço está diretamente relacionado como primeiro ponto. 
+Este serviço relaciona-se com o serviço de caraterização dos alunos, na medida em que forma-se turmas e grupos mediante as informações obtidas, possibilitando combinações de caraterísticas na formação de turmas e/ou grupos que poderão resultar em sucesso quer a nível de notas, quer a nível de experiência académica. O serviço pode evoluir no sentido de agrupar alunos com caraterísticas que tiveram maior sucesso anteriormente. Por exemplo: pode-se balancear o grau de conhecimento entre os alunos de forma a aumentar a competitividade entre os mesmos, como também adaptar a forma de ensino de acordo com a dificuldade dos mesmos; como também pode diferenciar o grau de conhecimento entre os alunos de forma a aumentar o espírito de aprendizagem mútua e o trabalho em equipa, finalmente evoluir o mecanismo de atribuição de turmas e/ou grupos mediante a combinação que obteve maior sucesso.
+
+KPI's - satisfação do aluno e resultados obtidos dos grupos e turmas formadas.
 
 ##  Criar um serviço experimental de deteção de fraude académica que use o perfil do estudante e o seu histórico para identificar eventuais anomalias. Caberá aos docentes a análise concreta e a decisão sobre o alerta.
 
