@@ -32,5 +32,5 @@ Pode ainda ser utilizado em conjunto com o serviço de colocação em turmas de 
 
 Desta forma automatiza-se os inquéritos pedagógicos, para além disso o que representa um professor passa a ser os resultados que obtém em vez da opinião que os alunos têm dele.
 
-### KPIs
+## KPIs
 No que toca aos KPI's para a qualidade da atividade de ensino, temos a quantidade de reprovação, a média, a assiduidade, as faltas do aluno, satisfação do aluno, qualidade do serviço, SLA, disponibilidade do serviço, diminuição de tempo gasto, conformidade com RGPD.
